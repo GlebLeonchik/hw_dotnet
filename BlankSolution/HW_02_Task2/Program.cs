@@ -8,8 +8,8 @@ namespace Task2
         {
             Int32 a1 = -2147483648;
             int a2 = 2147483647;
-            Console.WriteLine(a1+"    "+a1.GetType());
-            Console.WriteLine(a2+"    "+a2.GetType());
+            Console.WriteLine(a1 + "    " + a1.GetType());
+            Console.WriteLine(a2 + "    " + a2.GetType());
             bool b1 = true;
             Boolean b2 = false;
             Console.WriteLine(b1 + "    " + b1.GetType());
@@ -50,8 +50,8 @@ namespace Task2
             UInt64 k2 = 556;
             Console.WriteLine(k1 + "    " + k1.GetType());
             Console.WriteLine(k2 + "    " + k2.GetType());
-            object l1 = "Hi!" ;
-            Object l2 = 1.33 ;
+            object [] l1 = { 1, 2, 3 };
+            Object [] l2 = { 4, 5, 6 };
             Console.WriteLine(l1 + "    " + l1.GetType());
             Console.WriteLine(l2 + "    " + l2.GetType());
             short m1 = 10;
