@@ -21,7 +21,6 @@ namespace hw_02_Task1
             object c = (string) o;
             Console.WriteLine(c);
             Console.ReadKey();
-
         }
     }
 }
