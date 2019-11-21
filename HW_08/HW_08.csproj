@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F1B70CE8-766E-4833-8D8D-FF7B667282BE}</ProjectGuid>
+    <ProjectGuid>{9B31A806-812C-4D5D-8A25-EA124F873AF5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AssemblyOne</RootNamespace>
-    <AssemblyName>AssemblyOne</AssemblyName>
+    <RootNamespace>HW_08</RootNamespace>
+    <AssemblyName>HW_08</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
